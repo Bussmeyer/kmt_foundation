@@ -13,7 +13,7 @@ A basic drupal installation
  * users
  * search
  * panels
- * media
+ * media, image (media, media_gallery, imagecache_actions, epsacrop)
  * theme
  
 # References
