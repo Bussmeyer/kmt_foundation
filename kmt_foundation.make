@@ -43,3 +43,9 @@ projects[uuid][download][type] = git
 projects[uuid][download][revision] = 4730c67
 projects[uuid][download][branch] = 7.x-1.x
 projects[uuid][patch][1605284] = http://drupal.org/files/1605284-define-types-for-tokens-6.patch
+
+;projects[kmt_foundation][version] = 1.0
+;projects[kmt_foundation][subdir] = kmt
+;projects[kmt_foundation][download][type] = git
+;projects[kmt_foundation][download][revision] = 3bcd157
+;projects[kmt_foundation][download][branch] = 7.x-1.x
