@@ -1,3 +1,6 @@
+api = 2
+core = 7.x
+
 ; The Panopoly Foundation
 
 projects[panopoly_core][version] = 1.0-rc3
