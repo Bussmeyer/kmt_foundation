@@ -1,6 +1,9 @@
 api = 2
 core = 7.x
 
+; Drupal
+projects[drupal][version] = 7.19
+
 ; The Panopoly Foundation
 
 projects[panopoly_core][version] = 1.0-rc3
