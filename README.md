@@ -10,3 +10,4 @@ Checks and todos
 * workflow (workbench, workbench_moderation)
 * media, image (media, media_gallery, imagecache_actions, epsacrop)
 * development app
+* https://github.com/Decipher/customformatters.com
