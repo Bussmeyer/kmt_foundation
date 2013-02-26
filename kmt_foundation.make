@@ -50,8 +50,8 @@ projects[uuid][download][revision] = 4730c67
 projects[uuid][download][branch] = 7.x-1.x
 projects[uuid][patch][1605284] = http://drupal.org/files/1605284-define-types-for-tokens-6.patch
 
-;projects[kmt_foundation][version] = 1.0
-;projects[kmt_foundation][subdir] = kmt
-;projects[kmt_foundation][download][type] = git
-;projects[kmt_foundation][download][revision] = 3bcd157
-;projects[kmt_foundation][download][branch] = 7.x-1.x
+; KMT
+projects[kmt_development][subdir] = "devel"
+projects[kmt_development][type] = "module"
+projects[kmt_development][download][type] = "git"
+projects[kmt_development][download][url] = "git://github.com/Bussmeyer/kmt_development.git"

@@ -1,3 +1,8 @@
+name = KMT Foundation
+description = Magic drupal based on panopoly.
+version = VERSION
+core = 7.x
+
 ; Panopoly Foundation
 dependencies[] = panopoly_core
 dependencies[] = panopoly_images
@@ -13,6 +18,7 @@ dependencies[] = panopoly_search
 dependencies[] = panopoly_wysiwyg
 
 ; Panopoly Recommended
-dependencies[] = navbar
-dependencies[] = devel
 dependencies[] = uuid
+
+; KMT
+dependencies[] = kmt_development
