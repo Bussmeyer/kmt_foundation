@@ -51,7 +51,7 @@ projects[uuid][download][branch] = 7.x-1.x
 projects[uuid][patch][1605284] = http://drupal.org/files/1605284-define-types-for-tokens-6.patch
 
 ; KMT
-projects[kmt_development][subdir] = "devel"
+projects[kmt_development][subdir] = "development"
 projects[kmt_development][type] = "module"
 projects[kmt_development][download][type] = "git"
 projects[kmt_development][download][url] = "git://github.com/Bussmeyer/kmt_development.git"
