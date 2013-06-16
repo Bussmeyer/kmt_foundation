@@ -1,6 +1,5 @@
-kmt_foundation
+Foundation
 ================
-Build on top of panopoly (http://drupal.org/node/1651128)
 
 Checks and todos
 * directory structure (TODO: move to puppet)
