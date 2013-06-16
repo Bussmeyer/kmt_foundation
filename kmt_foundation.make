@@ -15,6 +15,11 @@ projects[kmt_development][type] = "module"
 projects[kmt_development][download][type] = "git"
 projects[kmt_development][download][url] = "git://github.com/Bussmeyer/kmt_development.git"
 
+projects[kmt_page][subdir] = "features"
+projects[kmt_page][type] = "module"
+projects[kmt_page][download][type] = "git"
+projects[kmt_page][download][url] = "git://github.com/Bussmeyer/kmt_page.git"
+
 projects[kmt_security][subdir] = "features"
 projects[kmt_security][type] = "module"
 projects[kmt_security][download][type] = "git"
