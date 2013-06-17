@@ -6,6 +6,7 @@ core = 7.x
 ; KMT
 dependencies[] = kmt_base
 dependencies[] = kmt_development
+dependencies[] = kmt_fb
 dependencies[] = kmt_i18n
 dependencies[] = kmt_page
 dependencies[] = kmt_security
