@@ -3,10 +3,8 @@ description = Magic drupal.
 version = VERSION
 core = 7.x
 
-; KMT
-dependencies[] = kmt_base
-dependencies[] = kmt_development
-dependencies[] = kmt_fb
-dependencies[] = kmt_i18n
-dependencies[] = kmt_page
-dependencies[] = kmt_security
+; Information added by drush on 2013-06-17
+version = "unknown"
+project = "kmt_foundation"
+datestamp = "1371500442"
+

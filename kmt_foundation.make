@@ -34,3 +34,16 @@ projects[kmt_security][subdir] = "features"
 projects[kmt_security][type] = "module"
 projects[kmt_security][download][type] = "git"
 projects[kmt_security][download][url] = "git://github.com/Bussmeyer/kmt_security.git"
+
+projects[kmt_social][subdir] = "features"
+projects[kmt_social][type] = "module"
+projects[kmt_social][download][type] = "git"
+projects[kmt_social][download][url] = "git://github.com/Bussmeyer/kmt_social.git"
+
+projects[kmt_statistic][subdir] = "features"
+projects[kmt_statistic][type] = "module"
+projects[kmt_statistic][download][type] = "git"
+projects[kmt_statistic][download][url] = "git://github.com/Bussmeyer/kmt_statistic.git"
+
+projects[zen][subdir] = "contrib"
+projects[zen][type] = "theme"
